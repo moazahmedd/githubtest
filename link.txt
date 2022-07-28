@@ -6,3 +6,4 @@ youtube.com/watch?v=IHaTbJPdB-s //webdev git
 commands:
 $ ssh -T git@github.com //checking if connection is made.
 $ git add link.txt test.html
+$ git commit -m "Added Test and Link file"
