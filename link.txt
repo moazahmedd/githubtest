@@ -1,0 +1,8 @@
+Installing git: https://www.youtube.com/watch?v=HfTXHrWMGVY&t=62s
+
+https://www.youtube.com/watch?v=USjZcfj8yxE //git in 15mins
+youtube.com/watch?v=IHaTbJPdB-s //webdev git
+
+commands:
+$ ssh -T git@github.com //checking if connection is made.
+$ git add link.txt test.html
